@@ -4,9 +4,9 @@ public class if { // if
         boolean bool = true;
 
         if(bool == false) {
-            System.out.println("False");
+            System.out.println(bool);
         } else {
-            System.out.println("True");
+            System.out.println(bool);
         }
 
         System.out.println("Hello World");
