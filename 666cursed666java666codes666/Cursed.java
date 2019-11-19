@@ -1,4 +1,4 @@
-public class cursed                                     {
+public class Cursed                                     {
     private static void permute(int n, char[] a)        {
         if (n == 0)                                     {
             System.out.println(String.valueOf(a))       ;}

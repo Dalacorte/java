@@ -5,7 +5,7 @@ import java.awt.Point;
 import java.awt.Robot;
 import java.awt.Toolkit;
 
-public class mouse {
+public class Mouse {
 
     private static int rad = 100;//radius
 

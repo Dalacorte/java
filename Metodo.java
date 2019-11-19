@@ -1,4 +1,4 @@
-public class metodos {
+public class Metodo {
   static void meuMetodo() {
     System.out.println("Chamada do método");
   }

@@ -1,4 +1,4 @@
-public class if { // if
+public class If {
     public static void main(String[] args) {
 
         boolean bool = true;

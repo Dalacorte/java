@@ -1,10 +1,13 @@
-public class while { // while
+public class Break {
     public static void main(String[] args) {
 
         int x = 10;
         int i = 0;
 
-        while(i < x){
+        while(i < x) {
+            if(i == 5) {
+                break;
+            }
             i++;
         }
 
